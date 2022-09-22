@@ -68,26 +68,11 @@ background-color: aqua;
 /* no me sale el ejercicio, flex*/
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @media screen and (min-width: 900px) {
         body {
           
     background-color: rgb(182, 42, 112);
     
         }
+    }
 
-/* No entiendo este error */
