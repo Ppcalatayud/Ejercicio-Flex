@@ -1,0 +1,93 @@
+
+div{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border: 5px solid rgb(204, 207, 204)
+    
+}
+
+
+.flex-container {
+
+    border: 1px solid black;
+    background-color: #fffdfd;
+    Padding: 10px;
+
+}
+
+.header {
+
+    background-color: #03A9F4;
+}
+
+.hero {
+
+    background-color: #D12A1E;
+}
+
+.contenet {
+
+
+    background-color: #129A22 ;
+}
+
+.sidebar {
+
+    background-color: #6739B6;
+}
+
+.footer {
+
+    background-color: #616161;
+}
+
+
+
+@media screen and (min-width: 500px) {
+body{
+     
+background-color: aqua;
+}
+
+.Juntos {
+
+    display: flex;
+    flex-direction: row;
+    justify-content:center; 
+
+
+
+
+}
+
+}
+
+/* no me sale el ejercicio, flex*/
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media screen and (min-width: 900px) {
+        body {
+          
+    background-color: rgb(182, 42, 112);
+    
+        }
+
+/* No entiendo este error */
